@@ -1,3 +1,4 @@
+Este repositorio contiene dos archivos de codigo (.ipynb y .py) para ejecutar en el ambiente Google Colab se recomienda usar el archivo Prueba_tic_7.ipynb
 # Resumen trabajo-de-integración-curricular
 Para este trabajo de integración curricular se ha escogido como tema el progreso de los pacientes de Alzheimer, para el desarrollo de un modelo de aprendizaje no supervisado, mismo que se realizó a partir de un conjunto de datos.
 El desarrollo del modelo, se trabajó en el ambiente de trabajo de *Google Colab*, mismo que evidenció la necesidad de utilizar un tratamiento de valores faltantes sobre los datos, para poder realizar la posterior ejecución de los algoritmos correspondientes.
